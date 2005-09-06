@@ -1,5 +1,9 @@
 Changes
-Decay.pm
-MANIFEST
+lib/Radioactive/Decay.pm
 Makefile.PL
-test.pl
+MANIFEST			This list of files
+t/01.t
+t/pod-coverage.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)
+README
